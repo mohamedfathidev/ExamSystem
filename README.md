@@ -4,6 +4,9 @@ A **Desktop-based Exam System** built to apply what we learned from **ERD, EERD,
 
 ---
 
+## Requirements SRS
+https://docs.google.com/document/d/1d3smUdXss-DBQeh8EcszQvgdyREpVRmWPaNaCJ9ovqU/edit?usp=sharing
+
 ## Features
 
 - **Database**  

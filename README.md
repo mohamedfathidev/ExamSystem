@@ -34,12 +34,10 @@ A **Desktop-based Exam System** built to apply what we learned from **ERD, EERD,
 
 ## Diagrams & Documentation
 
-- **ERD & Schema Diagrams**  
-  ![ERD Diagram](images/erd.png)  
-  _Replace `images/erd.png` with your actual ERD diagram screenshot_
+- **ERD & Schema Diagrams**  (Find above)
 
 - **Mini Workflow Diagram**  
-  ![Workflow](images/workflow.png)  
+ 
   _Shows exam creation → student answering → submission → correction → report_
 
 ---
@@ -71,15 +69,6 @@ SqlConnection con = new SqlConnection(
 
 ---
 
-## Screenshots (Optional)
-
-**Exam Form:**  
-![Exam Form](images/examform.png)  
-
-**Reports:**  
-![Reports](images/reports.png)
-
----
 
 ## License
 

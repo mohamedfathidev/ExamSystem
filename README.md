@@ -46,13 +46,8 @@ A **Desktop-based Exam System** built to apply what we learned from **ERD, EERD,
 
 1. Restore the database from the `.bak` file.  
 2. Open the desktop app in Visual Studio.  
-3. Update the connection string if needed:
+3. We used monster Asp for remote collaboration
 
-```csharp
-SqlConnection con = new SqlConnection(
-    "Data Source=.;Initial Catalog=ExamDB;Integrated Security=True"
-);
-```
 
 4. Build and run the app.  
 5. Students can take exams and submit answers.  
